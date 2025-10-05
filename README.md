@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Case Técnico - Estágio em Estratégia
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre a Empresa
+O Méliuz é a maior plataforma de cashback do Brasil. Com mais de 40 milhões de usuários cadastrados e milhares de parceiros, movimenta anualmente mais de 4 bilhões de reais em vendas no e-commerce.
 
-## Available Scripts
+## Modelo de Negócio
+Nosso principal modelo de negócio baseia-se na geração de vendas para lojas parceiras no e-commerce. Para cada venda gerada, recebemos uma comissão, que é dividida entre Méliuz e comprador, gerando cashback para o comprador.
 
-In the project directory, you can run:
+O Méliuz possui um ecossistema completo com diferentes canais de vendas e produtos, potencializando a geração de vendas e a oferta de cashback atrativo.
 
-### `npm start`
+## Desafio
+O time de estratégia do Méliuz busca otimizar os resultados das linhas de negócio. Para isso, realiza:
+- Definição de KPIs relevantes;
+- Construção de dashboards de acompanhamento dos resultados;
+- Identificação de problemas e oportunidades de melhorias;
+- Análise de problemas e oportunidades;
+- Levantamento de hipóteses e identificação de “causa-raiz” de problemas;
+- Proposição de planos de ação para otimização dos resultados.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Foi percebida uma queda de performance da linha de negócios do E-Commerce. O objetivo deste projeto é entender a situação, analisar o problema e propor próximos passos a partir da base de dados fornecida.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Instruções da Entrega
+- Uso da base de dados fornecida (planilha do Google Sheets) com permissão de edição.
+- Todos os cálculos e análises devem estar explícitos com fórmulas visíveis.
+- Opcional: apresentação em PDF ou Google Slides, se pertinente.
+- **Observação:** os dados são fictícios e servem apenas como insumo para o teste técnico.
 
-### `npm test`
+## Solução
+O código presente neste repositório realiza a análise da base de dados, aplicando cálculos, visualizações e identificação de oportunidades de melhoria para a linha de negócios do E-Commerce.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
